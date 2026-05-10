@@ -1,7 +1,7 @@
 # PyTorch Neural Networks — Model Building, Custom Training Loops, Tokenization, Vectorization, Embeddings, and TensorFlow Binary Classification
 ### A Technical Reference on PyTorch Architecture, Manual Training Pipelines, NLP Preprocessing, Word Embeddings, Sentiment Analysis, and End-to-End Deep Learning Workflows
 
-**Author:** Kevin Victor | SY-5, Roll No. 30
+**Author:** Kevin Victor
 **Domain:** Python — PyTorch, TensorFlow, Deep Learning, Natural Language Processing, Neural Network Training, Applied AI Systems
 **Status:** Demonstrative & Applied
 
