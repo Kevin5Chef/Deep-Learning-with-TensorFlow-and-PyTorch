@@ -1,7 +1,7 @@
 # Keras Neural Networks — Model Compilation, Training with fit(), Evaluation, Loss Curves, and Applied Deep Learning Pipelines
 ### A Technical Reference on Model Architecture, Activation Functions, Loss Functions, Optimizers, Validation Metrics, Training History, and End-to-End Neural Network Workflows
 
-**Author:** Kevin Victor | SY-5, Roll No. 30
+**Author:** Kevin Victor
 **Domain:** Python — Keras, TensorFlow, Deep Learning, Neural Network Training and Evaluation, Applied AI Systems
 **Status:** Demonstrative & Applied
 
