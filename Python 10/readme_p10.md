@@ -1,7 +1,7 @@
 # TensorFlow Fundamentals — Tensors, Data Types, Operations, Reshaping, Variables, and Neural Network Training
 ### A Technical Reference on Tensor Ranks, dtype Selection, Matrix Operations, tf.Variable, GradientTape, and Applied Deep Learning Pipelines
 
-**Author:** Kevin Victor | SY-5, Roll No. 30
+**Author:** Kevin Victor
 **Domain:** Python — TensorFlow, Deep Learning Fundamentals, Tensor Operations, Neural Networks, Applied AI Systems
 **Status:** Demonstrative & Applied
 
